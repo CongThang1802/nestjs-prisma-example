@@ -17,7 +17,7 @@
     "url": "https://github.com/congthang1802/nestjs-prisma-example.git"
   },
   "bugs": {
-    "url": "https://github.com/fivethree-team/nestjs-prisma-example/issues"
+    "url": "https://github.com/Congthang1802/nestjs-prisma-example/issues"
   },
   "scripts": {
     "prebuild": "rimraf dist",
